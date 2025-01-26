@@ -37,6 +37,17 @@ The primary aim was to formulate a comprehensive annual sales report for 2022, e
 ## Dashboard
 ![Screenshot(495)](https://github.com/Alazizu6798/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Annual%20Report.png)
 
+## Project Insights 
+- The highest sales and orders were recorded in the month of March.
+- Women purchased more than Men.
+- Maximum order status was seen to be delivered(92%).
+- Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu are the top 5 highest sales states.
+- Women of the Adult age group were the highest to place orders.
+- Amazon, Myntra, and Flipkart channels are contributing to maximum sales.
+- The store must target more Women.
 
+## Final Conclusion
+
+Target customers of the Adult age group living in Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu by giving more discounts, offers and coupons, and gifts above a particular purchase amount available on Amazon, Myntra, and Flipkart.
 
 
