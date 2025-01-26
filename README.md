@@ -26,5 +26,17 @@ The primary aim was to formulate a comprehensive annual sales report for 2022, e
 
 - Percentage of Total Orders Delivered.
 
+- Dashboard Interacton <a href="https://github.com/Alazizu6798/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Annual%20Report.png">View Dashboard</a>
+
+## Process
+
+- Verified data for any missing values and anomalies, and sort out the same.
+- Made sure that data is consistent and clean with respect to data type , data format and values used.
+- Created pivot tables into one dashboard and applied slicers to make dynamic.
+
+## Dashboard
+![Screenshot(495)](https://github.com/Alazizu6798/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Annual%20Report.png)
+
+
 
 
